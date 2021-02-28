@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	
+	Vigneshwaran Ramaiya	vigneshwaran3124@gmail.com	@iamVignesh19
 
 # THANKS
 
