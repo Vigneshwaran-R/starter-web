@@ -21,3 +21,7 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any web server
 
 ##How to Contribute
+
+##Copyright
+
+2021 Git.training
