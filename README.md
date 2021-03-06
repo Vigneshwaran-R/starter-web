@@ -26,4 +26,4 @@ Please fork this repository and then issue pull request for reviews
 
 ##Copyright
 
-2021 Git.training
+2021 Git.training. All rights reserved.
